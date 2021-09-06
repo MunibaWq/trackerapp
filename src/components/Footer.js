@@ -13,9 +13,10 @@ const Footer = () => {
           href="https://www.frontendmentor.io?ref=challenge"
           target="https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0/hub/ip-address-tracker-6uWB1SBT7"
         >
+          {" "}
           Frontend Mentor
         </a>
-        . Coded by
+        . Coded by{" "}
         <a href="https://github.com/MunibaWq/trackerapp">Muniba Waqar</a>.
       </div>
     </div>
