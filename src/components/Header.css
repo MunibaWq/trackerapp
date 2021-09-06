@@ -1,6 +1,8 @@
 .mainBody {
-  height: 40%;
+  height: 33%;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  background-image: url("../images/pattern-bg.png");
 }
