@@ -1,1 +1,2 @@
-export { default } from "./Footer.js";
+export * from "./Footer.js";
+export * from "./Header.js";
