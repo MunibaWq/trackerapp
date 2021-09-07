@@ -1,10 +1,11 @@
 import "./App.css";
-import { Footer, Header, Map } from "./components";
+import { Card, Footer, Header, Map } from "./components";
 
 function App() {
   return (
     <div className="App">
       <Header />
+      <Card />
       <Map />
       <Footer />
     </div>

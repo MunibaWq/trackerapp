@@ -2,4 +2,9 @@
   width: 5rem;
   height: 5rem;
   background-color: white;
+  position: absolute;
+  top: 13rem;
+  left: 22.5rem;
+
+  /* display: flex; */
 }
