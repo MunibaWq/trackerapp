@@ -1,14 +1,11 @@
 import "./App.css";
-import { Footer, Header } from "./components";
+import { Footer, Header, Map } from "./components";
 
 function App() {
   return (
     <div className="App">
-      {/* Header block element */}
       <Header />
-      {/* Search results on top of the Header and Body Elements */}
-      {/* Body Block element */}
-
+      <Map />
       <Footer />
     </div>
   );
