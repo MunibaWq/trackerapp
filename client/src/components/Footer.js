@@ -11,7 +11,7 @@ const Footer = () => {
         Challenge by
         <a
           href="https://www.frontendmentor.io?ref=challenge"
-          target="https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0/hub/ip-address-tracker-6uWB1SBT7"
+          target="https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0"
         >
           {" "}
           Frontend Mentor
