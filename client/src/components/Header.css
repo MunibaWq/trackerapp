@@ -6,6 +6,7 @@
   align-items: center;
 
   background-image: url("../images/pattern-bg.png");
+  background-size: cover;
 }
 
 h1 {
