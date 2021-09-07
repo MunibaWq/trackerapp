@@ -1,5 +1,6 @@
 {
   "name": "trackerapp",
+  "homepage": "https://munibawq.github.io/trackerapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
