@@ -10,12 +10,16 @@ input {
   border: none;
   border: solid 1px white;
 
-  padding: 10px;
-  border-radius: 10px 0px 0 10px;
+  padding: 1.5rem;
+  border-radius: 13px 0px 0 13px;
+}
+
+input[type="text"] {
+  font-size: large;
 }
 
 .searchBtn {
-  height: 3.02rem;
+  height: 3.3rem;
   width: 3rem;
 
   margin-left: -0.5rem;
@@ -27,5 +31,5 @@ input {
   color: white;
 
   padding: 10px;
-  border-radius: 0 10px 10px 0;
+  border-radius: 0 13px 13px 0;
 }
