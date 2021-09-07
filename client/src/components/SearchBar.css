@@ -22,7 +22,7 @@ input[type="text"] {
   height: 3.3rem;
   width: 3rem;
 
-  margin-left: -0.5rem;
+  float: left;
 
   border: none;
   border: solid 3px black;
