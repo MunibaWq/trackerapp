@@ -6,10 +6,16 @@
 
   display: flex;
   justify-content: center;
+  align-items: center;
 
   border-radius: 13px 13px 13px 13px;
 
   position: absolute;
 
   transform: translate(12.5%, -50%);
+}
+
+hr {
+  height: 50%;
+  border: solid 1px lightgray;
 }
