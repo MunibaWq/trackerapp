@@ -2,6 +2,10 @@ form.searchForm {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  top: 0px;
+  bottom: 30rem;
+  left: 0px;
 }
 
 input {
