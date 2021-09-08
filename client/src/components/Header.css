@@ -8,6 +8,8 @@
 
   background-image: url("../images/pattern-bg.png");
   background-size: cover;
+
+  position: relative;
 }
 
 h1 {

@@ -4,15 +4,15 @@
 
   background-color: white;
 
-  position: fixed;
-  float: left;
-  left: 50%;
-  top: 50%;
-
-  transform: translate(-50%, -135%);
-
   display: flex;
   justify-content: center;
 
   border-radius: 13px 13px 13px 13px;
+
+  position: absolute;
+
+  /* z-index: 555; */
+  width: 70%;
+  height: 150px;
+  transform: translate(22.5%, -50%);
 }
